@@ -26,7 +26,7 @@ const CorrectionDocs = () => {
 
   const filterData = allDocs?.filter((item) => item.status === "correction")
   console.log("filterData",filterData);
-
+// Random
   return (
     <div>
       <AdminNavbar option3 />

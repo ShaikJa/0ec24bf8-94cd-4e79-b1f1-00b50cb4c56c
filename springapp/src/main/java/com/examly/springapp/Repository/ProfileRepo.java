@@ -4,7 +4,7 @@ import com.examly.springapp.model.Profile;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
+// Starts here
 @Repository
 public interface ProfileRepo extends JpaRepository<Profile, Long> {
 

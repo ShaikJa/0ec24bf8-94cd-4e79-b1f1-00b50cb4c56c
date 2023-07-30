@@ -15,5 +15,5 @@ const ErrorPage = ({message}) => {
     </div>
   )
 }
-
+// Random
 export default ErrorPage
